@@ -1,0 +1,8 @@
+venv
+src/data/processed_images
+src/data/processed_text
+src/data/processed_tables
+src/data/processed_page_images
+.env
+
+src/diff_visualization.html
